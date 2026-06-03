@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Amanda Melo 👋
 
-<!--
-**amandamelo-softcode/amandamelo-softcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Gestão da Tecnologia da Informação
 
-Here are some ideas to get you started:
+💻 Tecnologias
+- Python
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente desenvolvendo projetos para aprimorar minhas habilidades em programação e desenvolvimento web.
+
+## Projetos
+🐾 Pet Shop Website
+🧠 Quiz em Python
+📋 Formulário de Conexão
+
+📈 Buscando oportunidades para aprender, crescer e contribuir na área de tecnologia.
